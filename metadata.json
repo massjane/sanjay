@@ -1,0 +1,7 @@
+{
+  "name": "Love Hub - The AI Companion for Couples",
+  "description": "A romantic, feature-rich app designed to help couples strengthen their bond through AI-powered date planning, relationship communication tools, and shared memory storytelling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
